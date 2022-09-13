@@ -1,1 +1,2 @@
 "hello from Seungki" 
+goodbye from Seungki 
